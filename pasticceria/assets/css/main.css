@@ -1,0 +1,9 @@
+html, body{
+	max-width: 100%;
+	overflow-x: hidden;
+	background: rgb(132,224,232);
+	background: linear-gradient(45deg, rgba(132,224,232,1) 10%, rgba(195,100,120,1) 100%);
+}
+.pointer{
+	cursor: pointer;
+}
